@@ -1,0 +1,16 @@
+{
+  "name": "seleniumwebdriver-mocha-training",
+  "version": "1.0.0",
+  "description": "My first touch with mocha and selenium-webdriver",
+  "scripts": {
+    "test": "mocha --timeout 10000"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "selenium-webdriver": "*"
+  },
+  "devDependencies": {
+    "mocha": "^8.4.0"
+  }
+}
